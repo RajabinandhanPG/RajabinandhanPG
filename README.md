@@ -40,7 +40,6 @@
   <img src="https://cdn.simpleicons.org/google/4285F4" height="30" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-
 </div>
 
 ###

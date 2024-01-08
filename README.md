@@ -31,7 +31,7 @@
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
   <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*1xgHIc1acL1MzvhzR0PSkA.png" height="30" alt="E3 Forensic Platform logo"  />
   <img width="12" />
-  <img src="https://img.genial.ly/63ebf0128778590015288f05/b23a7200-5bae-47a1-a7a6-72a84c812499.png" height="30" alt="FTK Imager logo"  />
+  <img src="https://www.forensiccomputers.com/pub/media/catalog/product/cache/1885c2069838da005a3956ce2bd26963/f/t/ftk_imager.png" height="30" alt="FTK Imager logo"  />
   <img width="12" />
   <img src="URL_FOR_AUTOPSY_DIGITAL_FORENSICS_ICON" height="30" alt="Autopsy Digital Forensics logo"  />
   <img width="12" />

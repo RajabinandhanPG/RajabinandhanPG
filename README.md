@@ -29,15 +29,15 @@
   <img src="https://cdn.simpleicons.org/google/4285F4" height="30" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*1xgHIc1acL1MzvhzR0PSkA.png" height="30" alt="E3 Forensic Platform logo"  />
+  <img src="https://paraben.com/wp-content/uploads/2022/08/E3_Icon.png" height="30" alt="E3 Forensic Platform logo"  />
   <img width="12" />
   <img src="https://www.forensiccomputers.com/pub/media/catalog/product/cache/1885c2069838da005a3956ce2bd26963/f/t/ftk_imager.png" height="30" alt="FTK Imager logo"  />
   <img width="12" />
-  <img src="URL_FOR_AUTOPSY_DIGITAL_FORENSICS_ICON" height="30" alt="Autopsy Digital Forensics logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*1xgHIc1acL1MzvhzR0PSkA.png" height="30" alt="Autopsy Digital Forensics logo"  />
   <img width="12" />
-  <img src="URL_FOR_JOHN_THE_RIPPER_ICON" height="30" alt="John the Ripper logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:325/0*GJqVesB1TRqlSj_e.png" height="30" alt="John the Ripper logo"  />
   <img width="12" />
-  <img src="URL_FOR_SQLMAP_ICON" height="30" alt="SQLMap logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Sqlmap_logo.png" height="30" alt="SQLMap logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo"  />
 </div>

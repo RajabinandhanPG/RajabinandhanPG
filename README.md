@@ -29,7 +29,7 @@
   <img src="https://cdn.simpleicons.org/google/4285F4" height="30" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
-  <img src="https://www.g2.com/products/autopsy/reviews" height="30" alt="E3 Forensic Platform logo"  />
+  <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*1xgHIc1acL1MzvhzR0PSkA.png" height="30" alt="E3 Forensic Platform logo"  />
   <img width="12" />
   <img src="URL_FOR_FTK_IMAGER_ICON" height="30" alt="FTK Imager logo"  />
   <img width="12" />

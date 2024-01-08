@@ -29,6 +29,17 @@
   <img src="https://cdn.simpleicons.org/google/4285F4" height="30" alt="google logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="30" alt="ubuntu logo"  />
+  <img src="https://www.g2.com/products/autopsy/reviews)" height="30" alt="E3 Forensic Platform logo"  />
+  <img width="12" />
+  <img src="URL_FOR_FTK_IMAGER_ICON" height="30" alt="FTK Imager logo"  />
+  <img width="12" />
+  <img src="URL_FOR_AUTOPSY_DIGITAL_FORENSICS_ICON" height="30" alt="Autopsy Digital Forensics logo"  />
+  <img width="12" />
+  <img src="URL_FOR_JOHN_THE_RIPPER_ICON" height="30" alt="John the Ripper logo"  />
+  <img width="12" />
+  <img src="URL_FOR_SQLMAP_ICON" height="30" alt="SQLMap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code logo"  />
 </div>
 
 ###

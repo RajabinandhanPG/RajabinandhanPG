@@ -1,4 +1,4 @@
-<h1 align="center" > Hi 👋! My name is Rajabinandhan </h1>
+<h1 align="center" > Hi 👋! I am Rajabinandhan </h1>
 <h2 align="left">I'm a Cyber Security Aspirant and Unreal Engine Game Developer from Chicago</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=RajabinandhanPG&label=Profile%20views&color=007bff&style=flat" alt="RajabinandhanPG" /> </p>

@@ -1,5 +1,7 @@
 <h2 align="left">Hi 👋! My name is Rajabinandhan and I'm a Cyber Security Aspirant and Unreal Engine Game Developer from Chicago</h2>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=revanthsa&label=Profile%20views&color=007bff&style=flat" alt="revanthsa" /> </p>
+
 ###
 
 <div align="center">

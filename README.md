@@ -1,6 +1,6 @@
 # Hi, I'm Raj 👋
 
-**IT & AI Infrastructure Engineer** · Healthcare IT · HIPAA · On-prem LLM platforms · Chicago, IL
+**IT & AI Infrastructure Engineer** · Healthcare IT · HIPAA · On-prem LLM platforms · Rock Falls, IL
 
 I build private infrastructure from the hardware up. I'm the sole IT owner for a 300+ person, five-entity healthcare organization. I also design, hand-assemble, and run GPU servers that serve a fleet of local text, speech, image, and video models, so sensitive data never leaves owned hardware.
 
